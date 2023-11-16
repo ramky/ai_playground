@@ -1,0 +1,413 @@
+{
+    "public_identifier": "ramky-iyer",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ramky-iyer/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20231107%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20231107T112719Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a1f771c7bdd71d041909ac2451648d267cbf12e783517d3d54d494ca033ad2cb",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ramky-iyer/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20231107%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20231107T112719Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=91432b195e89be372f815685a2c2f22ce93cf04de59f36cf8efdd91c6c3642e4",
+    "first_name": "Ram",
+    "last_name": "Iyer",
+    "full_name": "Ram Iyer",
+    "follower_count": 351,
+    "occupation": "Director Of Engineering at Teladoc",
+    "headline": "Experienced Director of Engineering | Delivering Innovative Healthcare Technology Solutions",
+    "summary": "As a Director of Engineering with extensive experience in healthcare IT, I have a proven track record of driving growth and success across multiple teams. My key achievements include leading teams to achieve significant increases in productivity, implementing robust security measures, and collaborating with cross-functional teams to define and execute strategic roadmaps. \\n\\nI have successfully launched new products, managed distributed teams, and driven technical excellence through the adoption of modern technologies and best practices. With a focus on delivering innovative healthcare technology solutions, I am committed to driving revenue growth, improving operational efficiency, and enhancing customer satisfaction.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Purchase",
+    "state": "New York",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": null,
+            "company": "Teladoc",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/teladoc-health",
+            "title": "Director Of Engineering",
+            "description": "- Spearheaded the growth and success of multiple front-end, back-end, and mobile teams across various healthcare IT verticals.\\n- Led and inspired teams to achieve a 30% increase in overall productivity.\\n- Implemented robust security measures, resulting in a 40% reduction in security incidents.\\n- Collaborated with cross-functional teams to define and execute a strategic roadmap for eligibility\\n- Managed distributed teams, achieving a 15% reduction in project delivery time.\\n- Successfully launched new products, capturing significant market share and generating substantial revenue\\n            \\n\\n    \\n    \\n\\n    \\n        Show less",
+            "location": "Purchase, New York",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEITfV6TzzMRw/company-logo_100_100/0/1583776199940?e=2147483647&v=beta&t=Hw8c4SfzR9dV5BVHyZTu5GxaWxuQMuuO372C1wf3AHM"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "Deluxe Media Inc. f/k/a Deluxe Digital Studios, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/deluxe1915",
+            "title": "Architect",
+            "description": "- Played a pivotal role in developing IT solutions and driving technical excellence.\\n- Managed a team of full-stack developers, achieving a 20% improvement in development speed.\\n- Developed a cloud-based media store solution powered by Ruby on Rails.\\n- Designed the IRIS front-end framework, enhancing development efficiency by 30%.\\n- Led the adoption of DevOps practices, achieving a 50% reduction in deployment time.\\n- Implemented automated testing processes, reducing the bug escape rate by 25%.\\n            \\n\\n    \\n    \\n\\n    \\n        Show less",
+            "location": "Burbank, California",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG5zL6LboyZ2Q/company-logo_100_100/0/1688141420604?e=2147483647&v=beta&t=2HnaVvdT4NkXYz8wwVlpTkJw9UbXag73EQ2Y1DaQqLk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2016
+            },
+            "company": "Deluxe Media Inc. f/k/a Deluxe Digital Studios, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/deluxe1915",
+            "title": "Sr. Software Engineer",
+            "description": "- Designed & Developed ingest scripts for video content into Cloud based SASS solution in Ruby on Rails",
+            "location": "Burbank, California",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQG5zL6LboyZ2Q/company-logo_100_100/0/1688141420604?e=2147483647&v=beta&t=2HnaVvdT4NkXYz8wwVlpTkJw9UbXag73EQ2Y1DaQqLk"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "tronc (formerly Tribune Publishing)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/tribune-publishing",
+            "title": "Solutions Architect",
+            "description": "- Designed and developed internal tools used by major publishing houses.\\n- Created APIs for syndicate sites and video recommendation engines.\\n- Set up APIs powering L.A. Times neighborhoods sites with integrated maps and data.\\n- Implemented a data analytics platform, enabling data-driven decision-making.",
+            "location": "Greater Los Angeles Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQErzKg8Xlxtwg/company-logo_100_100/0/1625149935273?e=2147483647&v=beta&t=B-Z_EoXLwm0SyQClqoRLmmCerm5iVlUDtyIk3Skme48"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2015
+            },
+            "company": "Tribune Technology",
+            "company_linkedin_profile_url": null,
+            "title": "Lead, Software Engineering",
+            "description": "As lead and then architect for New Near Me, I setup APIs that powered the L.A. Times neighborhoods sites with maps, demographics, school and crime data.",
+            "location": "Greater Los Angeles Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2008
+            },
+            "company": "Experian Interactive Media",
+            "company_linkedin_profile_url": null,
+            "title": "Sr. Software Enginner",
+            "description": "-Led the development of a high-traffic consumer website, handling over 1 million daily visitors and achieving a 30% improvement in page load times.\\n-Collaborated with cross-functional teams to implement a scalable and secure user authentication system, reducing unauthorized access incidents by 50%.\\n-Mentored junior engineers, fostering their professional growth and contributing to a 20% improvement in team productivity.",
+            "location": "Santa Monica, CA",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2003
+            },
+            "company": "Webshastra Pvt. Ltd",
+            "company_linkedin_profile_url": null,
+            "title": "Software Engineer",
+            "description": "Designed and implemented company intranet, mailing list manager and web tracking system using JAVA Servlets and JSP.",
+            "location": "Bangalore, India",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2012
+            },
+            "company": "CyberDefender Corp",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cyberdefender-corp",
+            "title": "Director of eCommerce",
+            "description": "- Managed a team of developers and QA professionals, achieving a significant reduction in bug density.\\n- Oversaw the migration from a legacy platform to a new eCommerce platform.\\n- Drove IT initiatives within the eCommerce department.",
+            "location": "Greater Los Angeles Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2008
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2009
+            },
+            "company": "CyberDefender Corp",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/cyberdefender-corp",
+            "title": "Sr. Software Engineer",
+            "description": "Designed OO Perl objects to interface with a credit card processing system called Litle.",
+            "location": "Greater Los Angeles Area",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2003
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2007
+            },
+            "company": "HP",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/hp",
+            "title": "Technical Lead",
+            "description": "-Managed a team of software engineers, achieving a 25% improvement in project delivery time and ensuring on-time completion of critical milestones.\\n-Designed and implemented a scalable architecture for a mission-critical enterprise application, handling high volumes of transactions with 99.9% uptime.",
+            "location": "Cupertino, CA",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQEXy0fjsEKlgA/company-logo_100_100/0/1688238534972?e=2147483647&v=beta&t=cWuSKQLJ0mOlVyqVc9D-hzScRBiFrCeCNFlpCTyQZUQ"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2001
+            },
+            "field_of_study": "Computer Application",
+            "degree_name": "MCA",
+            "school": "Gujarat University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/gujarat-university/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFO-BHBuDhZKw/company-logo_100_100/0/1669369001486?e=2147483647&v=beta&t=RpdMEqYjik09yi0K2aiQfyvy14C8o24szs1_R7jkG_g",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1997
+            },
+            "field_of_study": "Statistics, Mathematics, Economics",
+            "degree_name": "Bachelors",
+            "school": "Maharaja Sayajirao University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/the-maharaja-sayajirao-university-of-baroda/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEjZ0--4h7qPQ/company-logo_100_100/0/1519899405439?e=2147483647&v=beta&t=KTIJh0iA1582W7T049xAsQz_HwrzYvEWwyr7smQETmc",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 330,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/esha-shah",
+            "name": "Esha Shah",
+            "summary": null,
+            "location": "Princeton, NJ"
+        },
+        {
+            "link": "https://www.linkedin.com/in/justin-reda-715b0837",
+            "name": "Justin Reda",
+            "summary": "Manager, Software Engineering at Teladoc Health",
+            "location": "Long Valley, NJ"
+        },
+        {
+            "link": "https://www.linkedin.com/in/nikitha-k-66341519b",
+            "name": "Nikitha K.",
+            "summary": "Software Engineer at Teladoc Health",
+            "location": "Grand Rapids, MI"
+        },
+        {
+            "link": "https://www.linkedin.com/in/miar-hamido-233017173",
+            "name": "Miar Hamido",
+            "summary": null,
+            "location": "New York City Metropolitan Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/mdmonir",
+            "name": "Md. Moniruzzaman",
+            "summary": null,
+            "location": "Garland, TX"
+        },
+        {
+            "link": "https://www.linkedin.com/in/kartik-nakka-dynamicsax",
+            "name": "Kartik Nakka",
+            "summary": null,
+            "location": "Greater Boston"
+        },
+        {
+            "link": "https://www.linkedin.com/in/saradatanikella",
+            "name": "Sarada Tanikella",
+            "summary": null,
+            "location": "Morrisville, NC"
+        },
+        {
+            "link": "https://www.linkedin.com/in/lori-douglas-2694b265",
+            "name": "Lori Douglas",
+            "summary": "Director at Teladoc",
+            "location": "Eden, UT"
+        },
+        {
+            "link": "https://www.linkedin.com/in/vedanarayana-krishnamurthy-287b1915",
+            "name": "Vedanarayana Krishnamurthy",
+            "summary": "Specialist Programmer at Infosys",
+            "location": "Monmouth Junction, NJ"
+        },
+        {
+            "link": "https://www.linkedin.com/in/ram-prasad-eppalapelli-b53abb132",
+            "name": "Ram prasad EPPALAPELLI",
+            "summary": "Sr Software Engineer",
+            "location": "Tampa, FL"
+        },
+        {
+            "link": "https://www.linkedin.com/in/divyajit-jadeja-8748333b",
+            "name": "Divyajit Jadeja",
+            "summary": null,
+            "location": "Washington DC-Baltimore Area"
+        },
+        {
+            "link": "https://www.linkedin.com/in/hemanshu-shah-236a2498",
+            "name": "Hemanshu shah",
+            "summary": "Sr Oracle Consultant at Bloomberg LP",
+            "location": "Monmouth Junction, NJ"
+        },
+        {
+            "link": "https://www.linkedin.com/in/hadi-arbabi-2421659",
+            "name": "Hadi Arbabi",
+            "summary": null,
+            "location": "New York, NY"
+        },
+        {
+            "link": "https://www.linkedin.com/in/zhengzhu1",
+            "name": "Zheng Zhu",
+            "summary": null,
+            "location": "Austin, TX"
+        },
+        {
+            "link": "https://www.linkedin.com/in/bradleyfshaw",
+            "name": "Bradley Shaw",
+            "summary": null,
+            "location": "Boston, MA"
+        },
+        {
+            "link": "https://www.linkedin.com/in/sonja-carter-nc",
+            "name": "Sonja Carter",
+            "summary": null,
+            "location": "Charlotte, NC"
+        },
+        {
+            "link": "https://www.linkedin.com/in/shalini-kodali-51a14718",
+            "name": "Shalini Kodali",
+            "summary": null,
+            "location": "Austin, TX"
+        },
+        {
+            "link": "https://www.linkedin.com/in/sureshnelakantam",
+            "name": "Suresh Nelakantam",
+            "summary": null,
+            "location": "United States"
+        },
+        {
+            "link": "https://www.linkedin.com/in/ianrichardson",
+            "name": "Ian Richardson",
+            "summary": null,
+            "location": "Austin, TX"
+        },
+        {
+            "link": "https://www.linkedin.com/in/sudeepsv",
+            "name": "Sudeep Vishnumurthy",
+            "summary": null,
+            "location": "Greater Minneapolis-St. Paul Area"
+        }
+    ],
+    "recommendations": [
+        "Jim Lukowitsch",
+        "As lead developer on a variety of software projects at Tribune, parent company of the LA Times and many other high profile newspapers, Ram displayed some of the best technical acumen of any developer I've worked with along with great qualities of character including leadership, humor, and painstaking attention to detail. He very smoothly navigated all aspects of development from initial requirements gathering to coordinated communication among various parties for release approval. We worked closely together on a key and highly visible project for Tribune that involved back end and front end feature development, sequential releases to production, coordination with QA, and input from across the organization, both geographically and across departments. Ram's knowledge and demeanor facilitated this process immensely as he both inspired confidence in what we were doing across the organization, and lead a cross functional technology team to accomplish important goals in a timely manner. Ram will be a great asset to any organization looking to travel the sometimes twisting journey from inception of an idea to shipping fully functional and value adding products. He's a rare combination of a very technically adept leader.",
+        "Vahak Matavosian",
+        "I worked with Ram for more than four years and I saw him take on different roles, always performing them very competently. As a software developer and technical lead he was detail oriented, technically sound and knowledgable. Later on, as the Director of software development, he was organized, approachable and open to different ideas. He always listened to his team and most importantly never micro managed the team members. I would gladly work with him again."
+    ],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Ram Iyer",
+            "link": "https://www.linkedin.com/in/ramnarayaniyer",
+            "summary": null,
+            "location": "Kirkland, WA"
+        },
+        {
+            "name": "Ram Iyer",
+            "link": "https://www.linkedin.com/in/ram%7Eiyer",
+            "summary": null,
+            "location": "New York, NY"
+        },
+        {
+            "name": "Ram Iyer",
+            "link": "https://www.linkedin.com/in/ram-iyer-ca",
+            "summary": null,
+            "location": "San Jose, CA"
+        },
+        {
+            "name": "Ram Iyer",
+            "link": "https://www.linkedin.com/in/ram-iyer-359a6220",
+            "summary": null,
+            "location": "United States"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
