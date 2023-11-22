@@ -12,5 +12,5 @@ python first_test.py
 python second_test.py
 
 # Takes a full name, crawls for linked profile, extracts the linked url, and creates summaries from linkedin profile
-python app.py
+python ice_breaker.py
 ```
